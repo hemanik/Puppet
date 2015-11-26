@@ -1,0 +1,25 @@
+Lustre Installation on CentOS 7 
+---------------------------------------------------------------------
+
+Lustre Version: 2.8.0 for kernel version 3.10.0-229.14.1.el7 (RHEL7.1)
+
+References
+-------------
+Build Lustre from Source
+https://wiki.hpdd.intel.com/pages/viewpage.action?pageId=8126821
+
+Build Lustre from RPM https://wiki.hpdd.intel.com/display/PUB/Walk-thru-+Deploying+Lustre+pre-built+RPMs
+
+Stable Lustre Versions
+https://github.com/Xyratex/lustre-stable/blob/master/lustre/ChangeLog
+
+Prerequisite
+---------------
+A x86_64 machine with CentOS 7 installed
+
+My Link:
+---------------
+https://docs.google.com/document/d/1uX2PTjOfdQWaoNGODmc6j-w0EAbeK36QiYG0NeUmNnQ/edit#
+
+
+
