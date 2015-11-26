@@ -6,8 +6,7 @@ class mount_lustre{
       path => "/usr/bin:/bin:/sbin",
       command => '/usr/lib64/lustre/tests/llmount.sh'
    }
-   
-   notify => Exec["mount lustre"] 
+
 }
 
 include mount_lustre
